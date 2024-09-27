@@ -4,3 +4,14 @@ Username:
 Pass:
 
 @devDm.com
+
+##################################
+
+
+Registe-se caso pretenda exeutar alguma operacao
+
+User:
+
+Email:
+
+Pass:
